@@ -22,4 +22,4 @@
  If you got any questions, feel free to open a issue.
 
 # Screenshot
- !(/Screenshot_.PNG?raw=true "RTWS")
+ ![You should see a screenshot](/Screenshot_.PNG?raw=true "RTWS")
