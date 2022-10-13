@@ -20,3 +20,6 @@
  It may take a while for the process to be completed - the interface is not operable during this time.\
  \
  If you got any questions, feel free to open a issue.
+
+# Screenshot
+ ![Alt text](/Screenshot_.png?raw=true "RTWS")
