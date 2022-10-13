@@ -22,4 +22,4 @@
  If you got any questions, feel free to open a issue.
 
 # Screenshot
- ![Alt text](/Screenshot_.png?raw=true "RTWS")
+ ![Alt text](/Screenshot_.PNG?raw=true "RTWS")
