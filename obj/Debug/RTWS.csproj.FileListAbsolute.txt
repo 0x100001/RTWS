@@ -1,6 +1,5 @@
 C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\RTWS\RTWS\bin\Debug\RTWS.exe.config
 C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\RTWS\RTWS\bin\Debug\RTWS.exe
-C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\RTWS\RTWS\bin\Debug\RTWS.pdb
 C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\RTWS\RTWS\obj\Debug\RTWS.csproj.AssemblyReference.cache
 C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\RTWS\RTWS\obj\Debug\RTWS.csproj.SuggestedBindingRedirects.cache
 C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\RTWS\RTWS\obj\Debug\RTWS.Main_Form.resources
@@ -8,4 +7,3 @@ C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\RTWS\RTWS\obj\Debug\RTWS.
 C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\RTWS\RTWS\obj\Debug\RTWS.csproj.GenerateResource.cache
 C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\RTWS\RTWS\obj\Debug\RTWS.csproj.CoreCompileInputs.cache
 C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\RTWS\RTWS\obj\Debug\RTWS.exe
-C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\RTWS\RTWS\obj\Debug\RTWS.pdb

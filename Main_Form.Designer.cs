@@ -400,12 +400,13 @@
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(1111, 712);
+            this.linkLabel1.Location = new System.Drawing.Point(1153, 712);
             this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(43, 13);
+            this.linkLabel1.Size = new System.Drawing.Size(185, 13);
             this.linkLabel1.TabIndex = 31;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "https://";
+            this.linkLabel1.Text = "https://github.com/0x100001/RTWS";
+            this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // Main_Form
             // 

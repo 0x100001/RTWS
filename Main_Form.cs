@@ -11,6 +11,7 @@ using System.IO;
 using System.DirectoryServices;
 using System.ServiceProcess;
 using System.Net.NetworkInformation;
+using System.Diagnostics;
 
 namespace RTWS
 {
@@ -229,6 +230,11 @@ namespace RTWS
                     computer_not_reached_listbox.Items.Add(listBoxItem);
                 }
             }
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Process.Start("https://github.com/0x100001/RTWS");
         }
     }
 }
